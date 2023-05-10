@@ -1,0 +1,13 @@
+2023-05-10 13:52:29,236 - root - INFO - Connecting to mqtt server cloud.tbz.ch:1883
+2023-05-10 13:52:29,351 - root - INFO - stopping mqtt client
+2023-05-10 13:52:29,371 - root - INFO - Connected with result code 0
+2023-05-10 13:52:44,045 - root - INFO - Connecting to mqtt server cloud.tbz.ch:1883
+2023-05-10 13:52:44,077 - root - INFO - Connected with result code 0
+2023-05-10 13:53:06,366 - root - INFO - Connecting to mqtt server cloud.tbz.ch:1883
+2023-05-10 13:53:06,385 - root - INFO - Connected with result code 0
+2023-05-10 13:53:07,399 - root - DEBUG - demo/test b'Hello 1'
+2023-05-10 13:53:08,421 - root - DEBUG - demo/test b'Hello 2'
+2023-05-10 13:53:09,432 - root - DEBUG - demo/test b'Hello 3'
+2023-05-10 13:53:10,433 - root - DEBUG - demo/test b'Hello 4'
+2023-05-10 13:53:11,433 - root - DEBUG - demo/test b'Hello 5'
+2023-05-10 13:53:12,494 - root - DEBUG - demo/test b'Hello 6'

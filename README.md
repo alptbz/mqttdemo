@@ -1,6 +1,6 @@
-# Example MQTT
+# Python MQTT example
 
-Example application on how to use MQTT in Python.  
+Example application using MQTT in Python.  
 
 ## Requirements
  - Python3 > 3.9.*
